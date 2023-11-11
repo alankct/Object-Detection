@@ -1,4 +1,4 @@
-# Object-Detection
+# Object-Detection Competition
 _This project is an Object-Detection competition between Faster R-CNN and YOLO using PyTorch, Numpy, and Pandas_
 
 <h5> 
