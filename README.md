@@ -9,7 +9,10 @@ _This project is an Object-Detection competition between Faster R-CNN and YOLO u
 
 > **Our code can be found in object-detection.ipynb**
 
-<img width="510" alt="Screenshot 2023-11-11 at 2 22 34 PM" src="https://github.com/alankct/Object-Detection/assets/86837040/263ea981-f3e5-4418-bd9a-73284d617658">
+<p align="center">
+  Example Results
+  <img width="510" alt="Screenshot 2023-11-11 at 2 22 34 PM" src="https://github.com/alankct/Object-Detection/assets/86837040/263ea981-f3e5-4418-bd9a-73284d617658">
+</p>
 
 <h5>
   The primary objective of our experiment was to both qualitatively and quantitatively evaluate the detection performance of the two models based on their object and boundary box classifications, as well as their total inference times.
