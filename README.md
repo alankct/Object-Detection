@@ -1,5 +1,5 @@
 # Object-Detection
-_This project is an Object-Detection competition between the Faster R-CNN and YOLO models using PyTorch, Numpy, and Pandas_
+_This project is an Object-Detection competition between Faster R-CNN and YOLO using PyTorch, Numpy, and Pandas_
 
 <h5> 
   In this study, Alex and I tested the Faster R-CNN and YOLO models for Object Detection—a central problem in computer vision that is concerned with not only discerning the class of an object, but also discerning where the objects are located in an image. These models are the two prominent neural network architectures for this task. 
