@@ -11,6 +11,8 @@ _This project is an Object-Detection competition between Faster R-CNN and YOLO u
 
 <p align="center">
   Example Results
+</p>
+<p align="center">
   <img width="510" alt="Screenshot 2023-11-11 at 2 22 34 PM" src="https://github.com/alankct/Object-Detection/assets/86837040/263ea981-f3e5-4418-bd9a-73284d617658">
 </p>
 
